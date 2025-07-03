@@ -1,5 +1,7 @@
 # Propuesta de Noviazgo Interactiva
-
+---
+Autor: Rafa Antonio
+---
 Esta es una página web interactiva y divertida para pedirle a alguien que sea tu novia(o), con corazones animados y botones personalizados.
 
 ## Características
@@ -14,7 +16,6 @@ Esta es una página web interactiva y divertida para pedirle a alguien que sea t
 2. ¡Disfruta la experiencia y comparte el momento!
 
 ## Personalización
-Puedes editar los textos y colores directamente en el archivo `index.html` para adaptarlo a tu gusto.
 
 ---
 
