@@ -209,14 +209,13 @@
     </div>
     <div id="aviso-bonito" class="aviso-bonito-oculto">
         <div class="aviso-bonito-contenido">
-            <h2>¡Sabía que dirías que sí Naty! 💖</h2>
+            <h2>¡Sabía que dirías que sí Naty, TQM! 💖</h2>
             <p>¡Te quiero mucho! Gracias por aceptar, eres muy especial para mí.</p>
             <button id="cerrar-aviso">Cerrar</button>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
     <script>
-        // Configuración de partículas con corazones
         document.addEventListener('DOMContentLoaded', function() {
             particlesJS('particles-js', {
                 "particles": {
@@ -261,7 +260,7 @@
                 "retina_detect": true
             });
 
-            // Lógica de los botones
+
             const btnNo = document.getElementById('btn-no');
             const btnSi = document.getElementById('btn-si');
             const botonesAmor = document.getElementById('botones-amor');
@@ -275,7 +274,7 @@
 
             btnNo.addEventListener('mouseenter', moverNo);
             btnNo.addEventListener('touchstart', function(e) {
-                e.preventDefault(); // Evita que se dispare el click
+                e.preventDefault(); 
                 moverNo();
             });
 
